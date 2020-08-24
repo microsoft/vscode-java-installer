@@ -1,3 +1,16 @@
+Visual Studio Code Java Pack Installer
+====
+
+:warning: _This repository is only for issue tracking._
+
+The installer can be used as a clean install or an update for existing environment to add Java or Visual Studio Code to your development environment. It automatically detects if you have the fundamental components in your local development environment, including the JDK, Visual Studio Code and essential Java extensions. 
+
+[Learn more](https://code.visualstudio.com/docs/languages/java) about Java in Visual Studio Code.
+
+# Downloads
+* [Windows](https://aka.ms/vscode-java-installer-win)
+* [macOS](https://aka.ms/vscode-java-installer-mac)
+
 
 # Contributing
 
