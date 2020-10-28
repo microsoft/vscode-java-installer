@@ -1,4 +1,4 @@
-Visual Studio Code Java Pack Installer
+Visual Studio Code - Java Coding Pack
 ====
 
 :warning: _This repository is only for issue tracking._
